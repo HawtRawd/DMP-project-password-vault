@@ -1,4 +1,5 @@
 # DMP-project-password-vault
+Repo of my DMP project
 
 ## Idea
 Emulating a software password manager (such as BitWarden) to store credentials on hardware.
